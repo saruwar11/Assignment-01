@@ -120,3 +120,59 @@ section{
 }
 
 
+
+/* footer */
+.footer-info{
+    text-align: center;
+    margin: 50px 80px;
+    background-image: url(../assets/handshake.jpg);
+    /* height: 200px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
+    padding: 50px;
+    border-radius: 8px;
+
+
+    
+}
+.footer-title{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+
+
+}
+.footer-description{
+    color: white;
+
+}
+.footer-input01{
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+
+
+}
+.footer-input02{
+    padding: 5px;
+    border-radius: 5px;
+}
+/* deve;oper contract */
+
+.dev-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(169, 169, 169, 0.175);
+    border-radius: 5px;
+    padding: 10px 35px;
+}
+
+.dev-info-content{
+    padding: 5px 60px;
+}
+.dev-contract{
+    gap: 2px;
+}gghgyt
