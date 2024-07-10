@@ -35,4 +35,88 @@
 }
 .banner-img{
     margin: 0 60% 0 40%;
+}
+
+
+/* main section */
+section{
+    margin: 20px 70px ;
+}
+.main-content{
+    text-align: center;
+    margin-top: 75px;
+
+}
+.main-title{
+    font-weight: 800;
+    font-size: 28px;
+}
+.main-content02{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    /* padding: 0 100px; */
+}
+.main-btn{
+    padding: 12px 20px;
+    background-color: white;
+}
+.main-content03{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    margin-top: 50px;
+    /* padding: 0 100px; */
+
+}
+.main-content04{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.video-content{
+    text-align: center;
+}
+/* skill name */
+.skills-title{
+    text-align: center;
+    margin-top: 80px;
     
+
+
+}
+.skills-title-heading{
+    font-weight: 800px;
+    font-size: 28px;
+}
+
+.skills-name{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: #0D1321;
+    margin-top: 50px;
+    gap: 15px;
+}
+.skills-html{
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    padding: 15px;
+
+}
+.skills-css{
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 15px;
+}
+.skills-js{
+    background-color: cornsilk;
+    border-radius: 5px;
+    padding: 15px;
+
+}
+
+
